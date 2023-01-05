@@ -15,6 +15,7 @@ Repositories
 ------------
 
 * [binview](https://github.com/hymkor/binview) 0.6.3 - Binary data view/editor on the terminal
+* [csview](https://github.com/hymkor/csview) 0.6.2 - Simple CSV viewer/editor
 * [expect-lua](https://github.com/hymkor/expect) 0.10.0 - Expect-lua for Windows
 * [gmnlisp](https://github.com/hymkor/gmnlisp) 0.2.0 - gmnlisp - the subset of ISLisp
 * [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
