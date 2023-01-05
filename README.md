@@ -18,6 +18,7 @@ Repositories
 * [csview](https://github.com/hymkor/csview) 0.6.2 - Simple CSV viewer/editor
 * [expect-lua](https://github.com/hymkor/expect) 0.10.0 - Expect-lua for Windows
 * [gmnlisp](https://github.com/hymkor/gmnlisp) 0.2.0 - gmnlisp - the subset of ISLisp
+* [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
 * [pipe2excel](https://github.com/zetamatta/pipe2excel) 0.5.2 - Make Pipeline To Excel and send each CSV To Excel cell as a string
 * [xnhttpd](https://github.com/zetamatta/xnhttpd) 0.4.0 - CGI Server / MarkdownViewer / Lua Application Server
 * [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
