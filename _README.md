@@ -14,6 +14,3 @@ To add this bucket, run `scoop bucket add hymkor https://github.com/hymkor/scoop
 Repositories
 ------------
 
-* [expect-lua](https://github.com/hymkor/expect) 0.10.0 - Expect-lua for Windows
-* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.2.0 - gmnlisp
-* [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
