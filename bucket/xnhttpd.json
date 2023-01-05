@@ -1,0 +1,33 @@
+{
+    "version": "0.4.0",
+    "description": "CGI Server / MarkdownViewer / Lua Application Server",
+    "homepage": "https://github.com/zetamatta/xnhttpd",
+    "license": "MIT License",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/hymkor/xnhttpd/releases/download/v0.4.0/xnhttpd-v0.4.0-windows-386.zip",
+            "hash": "43fea05f24a24a453c94367f5f54859a19c87d9d96a7723b675feddca25a8355"
+        },
+        "64bit": {
+            "url": "https://github.com/hymkor/xnhttpd/releases/download/v0.4.0/xnhttpd-v0.4.0-windows-amd64.zip",
+            "hash": "e89c33b7877937115327114d3ac5075fe25c246075179227ee9dc6527cc4359a"
+        }
+    },
+    "bin": [
+        "xnhttpd.exe"
+    ],
+    "checkver": {
+        "github": "https://github.com/zetamatta/xnhttpd",
+        "regex": "tag/([\\d\\._]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "32bit": {
+                "url": "https://github.com/hymkor/xnhttpd/releases/download/v$version/xnhttpd-v$version-windows-386.zip"
+            },
+            "64bit": {
+                "url": "https://github.com/hymkor/xnhttpd/releases/download/v$version/xnhttpd-v$version-windows-amd64.zip"
+            }
+        }
+    }
+}
