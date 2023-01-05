@@ -15,5 +15,5 @@ Repositories
 ------------
 
 * [expect-lua](https://github.com/hymkor/expect) 0.10.0 - Expect-lua for Windows
-* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.2.0 - gmnlisp
+* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.2.0 - gmnlisp - the subset of ISLisp
 * [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
