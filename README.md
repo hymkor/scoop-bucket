@@ -14,6 +14,7 @@ To add this bucket, run `scoop bucket add hymkor https://github.com/hymkor/scoop
 Repositories
 ------------
 
+* [binview](https://github.com/hymkor/binview) 0.6.3 - Binary data view/editor on the terminal
 * [expect-lua](https://github.com/hymkor/expect) 0.10.0 - Expect-lua for Windows
 * [gmnlisp](https://github.com/hymkor/gmnlisp) 0.2.0 - gmnlisp - the subset of ISLisp
 * [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
