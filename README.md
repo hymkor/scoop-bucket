@@ -16,6 +16,7 @@ Repositories
 
 * [binview](https://github.com/hymkor/binview) 0.6.3 - Binary data view/editor on the terminal
 * [csview](https://github.com/hymkor/csview) 0.6.2 - Simple CSV viewer/editor
+* [cure](https://github.com/hymkor/cure) 0.3.0 - CURE.exe - Color-Unicoded moRE.exe
 * [expect-lua](https://github.com/hymkor/expect) 0.10.0 - Expect-lua for Windows
 * [gmnlisp](https://github.com/hymkor/gmnlisp) 0.2.0 - gmnlisp - the subset of ISLisp
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
