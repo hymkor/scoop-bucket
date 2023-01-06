@@ -9,7 +9,10 @@ This is the @hymkor-tools's bucket for [Scoop](https://scoop.sh), the Windows co
 How do I install these manifests?
 ---------------------------------
 
-To add this bucket, run `scoop bucket add hymkor https://github.com/hymkor/scoop-repos`. To install, do `scoop install <manifest>`.
+```
+scoop bucket add hymkor https://github.com/hymkor/scoop-bucket
+scoop install <manifest>
+```
 
 Repositories
 ------------
