@@ -26,5 +26,5 @@ Repositories
 * [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest) 0.2.1 - Make scoop manifest （そのまんまや！）
 * [pipe2excel](https://github.com/zetamatta/pipe2excel) 0.5.2 - Make Pipeline To Excel and send each CSV To Excel cell as a string
 * [tmt](https://github.com/hymkor/tmt) 0.7.0 - tmt - Twitter Maintenance Tool
-* [xnhttpd](https://github.com/zetamatta/xnhttpd) 0.4.0 - CGI Server / MarkdownViewer / Lua Application Server
+* [xnhttpd](https://github.com/hymkor/xnhttpd) 0.4.0 - CGI Server / MarkdownViewer / Lua Application Server
 * [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
