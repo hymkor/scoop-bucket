@@ -4,6 +4,7 @@ for %%I in (
     binview
     csview
     cure
+    findo
     gmnlisp
     log2web
     make-scoop-bucket-index
