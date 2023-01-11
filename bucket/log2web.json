@@ -16,10 +16,7 @@
     "bin": [
         "log2web.exe"
     ],
-    "checkver": {
-        "github": "https://github.com/hymkor/log2web",
-        "regex": "tag/([\\d\\._]+)"
-    },
+    "checkver": "github",
     "autoupdate": {
         "architecture": {
             "32bit": {
