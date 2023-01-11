@@ -9,6 +9,7 @@ for %%I in (
     log2web
     make-scoop-bucket-index
     make-scoop-manifest
+    md5tree
     pipe2excel
     seek
     xnhttpd
