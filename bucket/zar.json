@@ -16,10 +16,7 @@
     "bin": [
         "zar.exe"
     ],
-    "checkver": {
-        "github": "https://github.com/hymkor/zar",
-        "regex": "tag/([\\d\\._]+)"
-    },
+    "checkver": "github",
     "autoupdate": {
         "architecture": {
             "32bit": {
