@@ -1,16 +1,16 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Make README.md of the bucket repository",
     "homepage": "https://github.com/hymkor/make-scoop-bucket-index",
     "license": "MIT License",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/hymkor/make-scoop-bucket-index/releases/download/v0.0.1/make-scoop-bucket-index-v0.0.1-windows-386.zip",
-            "hash": "982200af50cf855913488b688e3de930d6a76c36e98964428ef79f959308f5db"
+            "url": "https://github.com/hymkor/make-scoop-bucket-index/releases/download/v0.0.2/make-scoop-bucket-index-v0.0.2-windows-386.zip",
+            "hash": "e8c8838b3d7214595701e2a01c39b01b44d9fb04a33e646a8d47b7d48197ba52"
         },
         "64bit": {
-            "url": "https://github.com/hymkor/make-scoop-bucket-index/releases/download/v0.0.1/make-scoop-bucket-index-v0.0.1-windows-amd64.zip",
-            "hash": "24c43fbddb4d528ee84b291cc803f86ec97f3f404a365b21653d6e0549b6f318"
+            "url": "https://github.com/hymkor/make-scoop-bucket-index/releases/download/v0.0.2/make-scoop-bucket-index-v0.0.2-windows-amd64.zip",
+            "hash": "35c3638929dd18d0f9b9705905d32471a5dfee7a2d3b90f373e9bad94fcf7ebf"
         }
     },
     "bin": [
