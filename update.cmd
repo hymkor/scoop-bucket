@@ -10,6 +10,7 @@ for %%I in (
     make-scoop-bucket-index
     make-scoop-manifest
     pipe2excel
+    seek
     xnhttpd
     zar
 ) do copy ..\%%I\%%I.json bucket\.
