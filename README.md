@@ -32,6 +32,9 @@ Repositories
 * [xnhttpd](https://github.com/hymkor/xnhttpd) 0.5.0 - CGI Server / MarkdownViewer / Lua Application Server
 * [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
 
+benhoyt
+* [goawk](https://github.com/benhoyt/goawk) 1.21.0 - A POSIX-compliant AWK interpreter written in Go, with CSV support
+
 zat-kaoru-hayama
 * [md5tree](https://github.com/zat-kaoru-hayama/md5tree) 0.1.1 - Output md5sum of the files under the specified directory.
 * [yShowVer](https://github.com/zat-kaoru-hayama/yShowVer) 2.0.0.6 - Show the version number , timestamp and MD5SUM of Windows Executables
