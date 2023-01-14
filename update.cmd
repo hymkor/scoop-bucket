@@ -13,6 +13,7 @@ for %%I in (
     md5tree
     pipe2excel
     seek
+    sponge
     uncozip
     vo
     xnhttpd
