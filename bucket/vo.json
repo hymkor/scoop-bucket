@@ -1,16 +1,16 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Visual-studio client for command-line Operation",
     "homepage": "https://github.com/hymkor/vo",
     "license": "MIT License",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/hymkor/vo/releases/download/v1.0.1/vo-v1.0.1-windows-386.zip",
-            "hash": "f3b198848bdd1383f2d88b5eac2c09ff5009db6b69ab0ec7492924467b143f50"
+            "url": "https://github.com/hymkor/vo/releases/download/v1.0.2/vo-v1.0.2-windows-386.zip",
+            "hash": "d53bb615a9a912ca34e01b5e7527aa5ce07f3c37f4222d568f7d0fe3c8239490"
         },
         "64bit": {
-            "url": "https://github.com/hymkor/vo/releases/download/v1.0.1/vo-v1.0.1-windows-amd64.zip",
-            "hash": "9021c2f1f74e2658f8af1060c380ad5ce34476f5fa300e12b4e261bbb60f9028"
+            "url": "https://github.com/hymkor/vo/releases/download/v1.0.2/vo-v1.0.2-windows-amd64.zip",
+            "hash": "0a883f68fcd5cd5edba7ac21d35abaf2833162de30b388aaf84b43510826a50a"
         }
     },
     "bin": [

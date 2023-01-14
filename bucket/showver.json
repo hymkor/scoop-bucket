@@ -1,20 +1,20 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Show the version number , timestamp and MD5SUM of Windows Executables",
     "homepage": "https://github.com/hymkor/vo",
     "license": "MIT License",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/hymkor/vo/releases/download/v1.0.1/showver-v1.0.1-windows-386.zip",
-            "hash": "f3b198848bdd1383f2d88b5eac2c09ff5009db6b69ab0ec7492924467b143f50"
+            "url": "https://github.com/hymkor/vo/releases/download/v1.0.2/showver-v1.0.2-windows-386.zip",
+            "hash": "13aa8718ffb7e6506cf13b6f1c7a147d38886045f676ee3b2f58c3995a41b95f"
         },
         "64bit": {
-            "url": "https://github.com/hymkor/vo/releases/download/v1.0.1/showver-v1.0.1-windows-amd64.zip",
-            "hash": "663f4e96fbda4483e97525f56b8539c2eaf28c7e05c3d4d650f5320430618347"
+            "url": "https://github.com/hymkor/vo/releases/download/v1.0.2/showver-v1.0.2-windows-amd64.zip",
+            "hash": "40f85edaec2f9344fed51fcfe0b74e2d4aaf2dfc21bf67df501b1552e7e3949d"
         }
     },
     "bin": [
-        "vo.exe"
+        "showver.exe"
     ],
     "checkver": "github",
     "autoupdate": {
