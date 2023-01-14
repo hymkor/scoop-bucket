@@ -14,6 +14,7 @@ for %%I in (
     pipe2excel
     seek
     sponge
+    tweetzip2md
     uncozip
     vo
     xnhttpd
