@@ -1,5 +1,6 @@
 copy ..\expect\expect-lua.json bucket\.
 copy ..\tmt\tmt-scoop.json bucket\tmt.json
+copy ..\vo\showver.json bucket\.
 for %%I in (
     binview
     csview
@@ -13,6 +14,7 @@ for %%I in (
     pipe2excel
     seek
     uncozip
+    vo
     xnhttpd
     zar
 ) do copy ..\%%I\%%I.json bucket\.
