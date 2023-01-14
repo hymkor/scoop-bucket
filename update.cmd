@@ -12,6 +12,7 @@ for %%I in (
     md5tree
     pipe2excel
     seek
+    uncozip
     xnhttpd
     zar
 ) do copy ..\%%I\%%I.json bucket\.

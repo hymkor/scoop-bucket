@@ -29,6 +29,7 @@ Repositories
 * [pipe2excel](https://github.com/hymkor/pipe2excel) 0.5.2 - Make Pipeline To Excel and send each CSV To Excel cell as a string
 * [seek](https://github.com/hymkor/seek) 0.2.0 - seek - color-grep for ansi/utf8 (Windows)
 * [tmt](https://github.com/hymkor/tmt) 0.7.0 - tmt - Twitter Maintenance Tool
+* [uncozip](https://github.com/hymkor/uncozip) 0.0.1 - UNzip COrrupted ZIP file that does not have the central directory records.
 * [xnhttpd](https://github.com/hymkor/xnhttpd) 0.5.0 - CGI Server / MarkdownViewer / Lua Application Server
 * [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
 
