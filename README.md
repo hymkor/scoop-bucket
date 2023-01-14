@@ -24,7 +24,7 @@ Repositories
 * [findo](https://github.com/hymkor/findo) 0.3.0 - Search filename from the subdirectories of the current directory.
 * [gmnlisp](https://github.com/hymkor/gmnlisp) 0.2.0 - gmnlisp - the subset of ISLisp
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
-* [make-scoop-bucket-index](https://github.com/hymkor/make-scoop-bucket-index) 0.0.2 - Make README.md of the bucket repository
+* [make-scoop-bucket-index](https://github.com/hymkor/make-scoop-bucket-index) 0.0.3 - Make README.md of the bucket repository
 * [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest) 0.3.0 - Make scoop manifest （そのまんまや！）
 * [pipe2excel](https://github.com/hymkor/pipe2excel) 0.5.2 - Make Pipeline To Excel and send each CSV To Excel cell as a string
 * [seek](https://github.com/hymkor/seek) 0.2.0 - seek - color-grep for ansi/utf8 (Windows)
