@@ -43,4 +43,4 @@ benhoyt
 
 zat-kaoru-hayama
 * [md5tree](https://github.com/zat-kaoru-hayama/md5tree) 0.1.1 - Output md5sum of the files under the specified directory.
-* [yShowVer](https://github.com/zat-kaoru-hayama/yShowVer) 2.0.0.6 - Show the version number , timestamp and MD5SUM of Windows Executables
+* [yShowVer](https://github.com/zat-kaoru-hayama/yShowVer) 2.0.0.6 - Show the version number , timestamp and MD5SUM of Windows Executables (GUI: WindowsForms version)
