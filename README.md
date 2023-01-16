@@ -23,6 +23,7 @@ Repositories
 * [expect-lua](https://github.com/hymkor/expect) 0.10.0 - Expect-lua for Windows
 * [findo](https://github.com/hymkor/findo) 0.3.0 - Search filename from the subdirectories of the current directory.
 * [gmnlisp](https://github.com/hymkor/gmnlisp) 0.2.0 - gmnlisp - the subset of ISLisp
+* [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
 * [make-scoop-bucket-index](https://github.com/hymkor/make-scoop-bucket-index) 0.0.3 - Make README.md of the bucket repository
 * [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest) 0.3.0 - Make scoop manifest （そのまんまや！）

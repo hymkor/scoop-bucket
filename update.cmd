@@ -7,6 +7,7 @@ for %%I in (
     cure
     findo
     gmnlisp
+    gosenzo
     log2web
     make-scoop-bucket-index
     make-scoop-manifest
