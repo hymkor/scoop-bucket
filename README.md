@@ -26,7 +26,7 @@ Repositories
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
 * [make-scoop-bucket-index](https://github.com/hymkor/make-scoop-bucket-index) 0.0.3 - Make README.md of the bucket repository
-* [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest) 0.3.0 - Make scoop manifest （そのまんまや！）
+* [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest) 0.4.0 - Make scoop manifest （そのまんまや！）
 * [pipe2excel](https://github.com/hymkor/pipe2excel) 0.5.2 - Make Pipeline To Excel and send each CSV To Excel cell as a string
 * [seek](https://github.com/hymkor/seek) 0.2.0 - seek - color-grep for ansi/utf8 (Windows)
 * [showver](https://github.com/hymkor/vo) 1.0.2 - Show the version number , timestamp and MD5SUM of Windows Executables
