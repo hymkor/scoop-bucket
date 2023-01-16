@@ -42,6 +42,9 @@ Repositories
 benhoyt
 * [goawk](https://github.com/benhoyt/goawk) 1.21.0 - A POSIX-compliant AWK interpreter written in Go, with CSV support
 
+koron
+* [vim-kaoriya](https://github.com/koron/vim-kaoriya) 8.2.1287-20200724 - Vim+kaoriya build system
+
 mattn
 * [twty](https://github.com/mattn/twty) 0.0.13 - command-line twitter client written in golang
 
