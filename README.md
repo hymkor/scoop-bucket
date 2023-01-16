@@ -42,6 +42,9 @@ Repositories
 benhoyt
 * [goawk](https://github.com/benhoyt/goawk) 1.21.0 - A POSIX-compliant AWK interpreter written in Go, with CSV support
 
+mattn
+* [twty](https://github.com/mattn/twty) 0.0.13 - command-line twitter client written in golang
+
 zat-kaoru-hayama
 * [md5tree](https://github.com/zat-kaoru-hayama/md5tree) 0.1.1 - Output md5sum of the files under the specified directory.
 * [yShowVer](https://github.com/zat-kaoru-hayama/yShowVer) 2.0.0.6 - Show the version number , timestamp and MD5SUM of Windows Executables (GUI: WindowsForms version)
