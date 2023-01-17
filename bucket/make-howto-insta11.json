@@ -1,0 +1,30 @@
+{
+    "version": "0.1.1",
+    "description": "Output how to install our application with the scoop installer for README.md like this.",
+    "homepage": "https://github.com/hymkor/make-howto-insta11",
+    "license": "MIT License",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/hymkor/make-howto-insta11/releases/download/v0.1.1/make-howto-insta11-v0.1.1-windows-386.zip",
+            "hash": "7f9fcf2707a5b27b4b48b83678c9ecc0bc97bc52d1261a4711778715cd845175"
+        },
+        "64bit": {
+            "url": "https://github.com/hymkor/make-howto-insta11/releases/download/v0.1.1/make-howto-insta11-v0.1.1-windows-amd64.zip",
+            "hash": "d2417d0736f82c108d5be3e50ff328027ada487e9d787995249efeebb10af2f0"
+        }
+    },
+    "bin": [
+        "make-howto-insta11.exe"
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "32bit": {
+                "url": "https://github.com/hymkor/make-howto-insta11/releases/download/v$version/make-howto-insta11-v$version-windows-386.zip"
+            },
+            "64bit": {
+                "url": "https://github.com/hymkor/make-howto-insta11/releases/download/v$version/make-howto-insta11-v$version-windows-amd64.zip"
+            }
+        }
+    }
+}

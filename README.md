@@ -25,6 +25,7 @@ Repositories
 * [gmnlisp](https://github.com/hymkor/gmnlisp) 0.2.0 - gmnlisp - the subset of ISLisp
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
+* [make-howto-insta11](https://github.com/hymkor/make-howto-insta11) 0.1.1 - Output how to install our application with the scoop installer for README.md like this.
 * [make-scoop-bucket-index](https://github.com/hymkor/make-scoop-bucket-index) 0.0.3 - Make README.md of the bucket repository
 * [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest) 0.5.0 - Make scoop manifest （そのまんまや！）
 * [pipe2excel](https://github.com/hymkor/pipe2excel) 0.5.2 - Make Pipeline To Excel and send each CSV To Excel cell as a string

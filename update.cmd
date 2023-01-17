@@ -10,6 +10,7 @@ for %%I in (
     gmnlisp
     gosenzo
     log2web
+    make-howto-insta11
     make-scoop-bucket-index
     make-scoop-manifest
     md5tree
