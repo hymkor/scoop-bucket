@@ -1,6 +1,7 @@
 copy ..\expect\expect-lua.json bucket\.
 copy ..\tmt\tmt-scoop.json bucket\tmt.json
 copy ..\vo\showver.json bucket\.
+copy ..\go-msidb\msiver.json bucket\.
 for %%I in (
     binview
     csview

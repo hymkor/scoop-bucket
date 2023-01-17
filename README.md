@@ -50,4 +50,5 @@ mattn
 
 zat-kaoru-hayama
 * [md5tree](https://github.com/zat-kaoru-hayama/md5tree) 0.1.1 - Output md5sum of the files under the specified directory.
+* [msiver](https://github.com/zat-kaoru-hayama/go-msidb) 0.1.0 - Get the version of the Windows Installer.
 * [yShowVer](https://github.com/zat-kaoru-hayama/yShowVer) 2.0.0.6 - Show the version number , timestamp and MD5SUM of Windows Executables (GUI: WindowsForms version)
