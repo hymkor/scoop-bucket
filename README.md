@@ -22,6 +22,7 @@ Repositories
 * [cure](https://github.com/hymkor/cure) 0.3.0 - CURE.exe - Color-Unicoded moRE.exe
 * [expect-lua](https://github.com/hymkor/expect) 0.10.0 - Expect-lua for Windows
 * [findo](https://github.com/hymkor/findo) 0.3.0 - Search filename from the subdirectories of the current directory.
+* [genestub](https://github.com/hymkor/genestub) 2.0.0.0 - Stub module to test the child-process is called as expected.
 * [gmnlisp](https://github.com/hymkor/gmnlisp) 0.2.0 - gmnlisp - the subset of ISLisp
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
@@ -50,6 +51,7 @@ mattn
 * [twty](https://github.com/mattn/twty) 0.0.13 - command-line twitter client written in golang
 
 zat-kaoru-hayama
+* [log2team](https://github.com/zat-kaoru-hayama/log2team) 20191119 - Transfer log from STDIN to Microsoft Teams
 * [md5tree](https://github.com/zat-kaoru-hayama/md5tree) 0.1.1 - Output md5sum of the files under the specified directory.
 * [msiver](https://github.com/zat-kaoru-hayama/go-msidb) 0.1.0 - Get the version of the Windows Installer.
 * [yShowVer](https://github.com/zat-kaoru-hayama/yShowVer) 2.0.0.6 - Show the version number , timestamp and MD5SUM of Windows Executables (GUI: WindowsForms version)
