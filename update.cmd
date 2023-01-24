@@ -1,8 +1,8 @@
-copy ..\expect\expect-lua.json bucket\.
-copy ..\tmt\tmt-scoop.json bucket\tmt.json
-copy ..\vo\showver.json bucket\.
-copy ..\go-msidb\msiver.json bucket\.
-for %%I in (
+@replace ..\expect\expect-lua.json bucket\. /U
+@replace ..\tmt\tmt-scoop.json bucket\tmt.json /U
+@replace ..\vo\showver.json bucket\. /U
+@replace ..\go-msidb\msiver.json bucket\. /U
+@for %%I in (
     binview
     csview
     cure
@@ -23,6 +23,6 @@ for %%I in (
     vo
     xnhttpd
     zar
-) do copy ..\%%I\%%I.json bucket\.
+) do @replace ..\%%I\%%I.json bucket\. /U
 
 make-scoop-bucket-index.exe -nmu hymkor -c < _README.md > README.md
