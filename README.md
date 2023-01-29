@@ -23,7 +23,7 @@ Repositories
 * [expect-lua](https://github.com/hymkor/expect) 0.10.0 - Expect-lua for Windows
 * [findo](https://github.com/hymkor/findo) 0.3.0 - Search filename from the subdirectories of the current directory.
 * [genestub](https://github.com/hymkor/genestub) 2.0.0.0 - Stub module to test the child-process is called as expected.
-* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.2.0 - gmnlisp - the subset of ISLisp
+* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.2.1 - gmnlisp - the subset of ISLisp
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
 * [make-howto-insta11](https://github.com/hymkor/make-howto-insta11) 0.2.0 - Output how to install our application with the scoop installer for README.md like this.
