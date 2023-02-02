@@ -6,6 +6,7 @@
     binview
     csview
     cure
+    fcopy
     findo
     gmnlisp
     gosenzo
