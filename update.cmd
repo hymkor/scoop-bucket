@@ -7,6 +7,7 @@
     csview
     cure
     fcopy
+    filelock
     findo
     gmnlisp
     gosenzo

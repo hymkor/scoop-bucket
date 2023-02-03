@@ -22,6 +22,7 @@ Repositories
 * [cure](https://github.com/hymkor/cure) 0.3.0 - CURE.exe - Color-Unicoded moRE.exe
 * [expect-lua](https://github.com/hymkor/expect) 0.10.0 - Expect-lua for Windows
 * [fcopy](https://github.com/hymkor/fcopy) 0.2.0 - Force to copy files even if they are using by other processes and/or the destination directories are protected
+* [filelock](https://github.com/hymkor/filelock) 0.1.0 - Keep the file in use until EOF is encountered on standard input for testing file locking.
 * [findo](https://github.com/hymkor/findo) 0.3.0 - Search filename from the subdirectories of the current directory.
 * [genestub](https://github.com/hymkor/genestub) 2.0.0.0 - Stub module to test the child-process is called as expected.
 * [gmnlisp](https://github.com/hymkor/gmnlisp) 0.2.1 - gmnlisp - the subset of ISLisp
