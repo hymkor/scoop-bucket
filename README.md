@@ -52,6 +52,9 @@ koron
 mattn
 * [twty](https://github.com/mattn/twty) 0.0.13 - command-line twitter client written in golang
 
+nyaosorg
+* [go-importconst](https://github.com/nyaosorg/go-importconst) 0.2.0 - Import constants from C++ headers for Go without 'cgo'
+
 zat-kaoru-hayama
 * [log2team](https://github.com/zat-kaoru-hayama/log2team) 20191119 - Transfer log from STDIN to Microsoft Teams
 * [md5tree](https://github.com/zat-kaoru-hayama/md5tree) 0.1.1 - Output md5sum of the files under the specified directory.

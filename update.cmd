@@ -10,6 +10,7 @@
     filelock
     findo
     gmnlisp
+    go-importconst
     gosenzo
     log2web
     make-howto-insta11
