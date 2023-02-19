@@ -38,7 +38,7 @@ Repositories
 * [sponge](https://github.com/hymkor/sponge) 0.1.0 - sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
 * [tmt](https://github.com/hymkor/tmt) 0.7.0 - tmt - Twitter Maintenance Tool
 * [tweetzip2md](https://github.com/hymkor/tweetzip2md) 0.1.0 - Convert from Twitter's downloaded archive to markdown files
-* [uncozip](https://github.com/hymkor/uncozip) 0.6.1 - UNzip COrrupted ZIP file that does not have the central directory records.
+* [uncozip](https://github.com/hymkor/uncozip) 0.7.0 - UNzip COrrupted ZIP file that does not have the central directory records.
 * [vo](https://github.com/hymkor/vo) 1.0.2 - Visual-studio client for command-line Operation
 * [xnhttpd](https://github.com/hymkor/xnhttpd) 0.6.0 - CGI Server / MarkdownViewer / Lua Application Server
 * [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
@@ -53,7 +53,7 @@ mattn
 * [twty](https://github.com/mattn/twty) 0.0.13 - command-line twitter client written in golang
 
 nyaosorg
-* [go-importconst](https://github.com/nyaosorg/go-importconst) 0.2.0 - Import constants from C++ headers for Go without 'cgo'
+* [go-importconst](https://github.com/nyaosorg/go-importconst) 0.3.0 - Import constants from C++ headers for Go without 'cgo'
 
 zat-kaoru-hayama
 * [log2team](https://github.com/zat-kaoru-hayama/log2team) 20191119 - Transfer log from STDIN to Microsoft Teams
