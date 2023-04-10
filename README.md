@@ -40,6 +40,7 @@ Repositories
 * [sponge](https://github.com/hymkor/sponge) 0.1.0 - sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
 * [tmt](https://github.com/hymkor/tmt) 0.7.0 - tmt - Twitter Maintenance Tool
 * [tweetzip2md](https://github.com/hymkor/tweetzip2md) 0.1.0 - Convert from Twitter's downloaded archive to markdown files
+* [type-rnote](https://github.com/hymkor/type-rnote) 0.1.0 - Read your releases of github repository and cat the release notes to STDOUT.
 * [uncozip](https://github.com/hymkor/uncozip) 0.7.1 - UNzip COrrupted ZIP file that does not have the central directory records.
 * [vo](https://github.com/hymkor/vo) 1.0.2 - Visual-studio client for command-line Operation
 * [xnhttpd](https://github.com/hymkor/xnhttpd) 0.7.0 - CGI Server for test uses instead of ANHTTPD
