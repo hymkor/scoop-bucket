@@ -38,13 +38,13 @@ Repositories
 * [showver](https://github.com/hymkor/vo) 1.0.2 - Show the version number , timestamp and MD5SUM of Windows Executables
 * [smake](https://github.com/hymkor/smake) 0.3.0 - SMake (Make by S-expression)
 * [sponge](https://github.com/hymkor/sponge) 0.1.0 - sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
-* [sqlbless](https://github.com/hymkor/sqlbless) 0.7.0 - The Command-line Database Client
+* [sqlbless](https://github.com/hymkor/sqlbless) 0.7.1 - The Command-line Database Client
 * [tmt](https://github.com/hymkor/tmt) 0.7.0 - tmt - Twitter Maintenance Tool
 * [tweetzip2md](https://github.com/hymkor/tweetzip2md) 0.1.0 - Convert from Twitter's downloaded archive to markdown files
 * [type-rnote](https://github.com/hymkor/type-rnote) 0.1.1 - Read your releases of github repository and cat the release notes to STDOUT.
 * [uncozip](https://github.com/hymkor/uncozip) 0.7.1 - UNzip COrrupted ZIP file that does not have the central directory records.
 * [vo](https://github.com/hymkor/vo) 1.0.2 - Visual-studio client for command-line Operation
-* [xnhttpd](https://github.com/hymkor/xnhttpd) 0.7.1 - CGI Server for test uses instead of ANHTTPD
+* [xnhttpd](https://github.com/hymkor/xnhttpd) 0.7.2 - CGI Server for test uses instead of ANHTTPD
 * [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
 
 benhoyt
