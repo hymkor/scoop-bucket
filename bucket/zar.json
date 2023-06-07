@@ -1,21 +1,19 @@
 {
-    "version": "0.2.2",
+    "version": "0.2.0",
     "description": "tarlike zipclone",
     "homepage": "https://github.com/hymkor/zar",
     "license": "MIT License",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/hymkor/zar/releases/download/v0.2.2/zar-v0.2.2-windows-386.zip",
-            "hash": "7fb5637263f4fd425f4cc9450b31fae737d3f83936d9aa12a7b9736a12cd783d"
+            "url": "https://github.com/hymkor/zar/releases/download/v0.2.0/zar-v0.2.0-windows-386.zip",
+            "hash": "a6942ba4ad9dce665a00f0ce5cb18dd1607fdb74f78b8f3ad0a2d30f8d64b1fe"
         },
         "64bit": {
-            "url": "https://github.com/hymkor/zar/releases/download/v0.2.2/zar-v0.2.2-windows-amd64.zip",
-            "hash": "6c811ed549afd1646d52f5b08be6eef3d1cab2552c028f893ae91d8f48cad96a"
+            "url": "https://github.com/hymkor/zar/releases/download/v0.2.0/zar-v0.2.0-windows-amd64.zip",
+            "hash": "c622c2fa47594e3916e20a8785a963c992af702e0b05e54885d0b34b3afc4a3d"
         }
     },
-    "bin": [
-        "zar.exe"
-    ],
+    "bin": "zar.exe",
     "checkver": "github",
     "autoupdate": {
         "architecture": {
