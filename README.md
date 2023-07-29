@@ -27,7 +27,7 @@ Repositories
 * [filelock](https://github.com/hymkor/filelock) 0.1.0 - Keep the file in use until EOF is encountered on standard input for testing file locking.
 * [findo](https://github.com/hymkor/findo) 0.3.0 - Search filename from the subdirectories of the current directory.
 * [genestub](https://github.com/hymkor/genestub) 2.0.0.0 - Stub module to test the child-process is called as expected.
-* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.2.1 - gmnlisp - the subset of ISLisp
+* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.3.0 - gmnlisp - the subset of ISLisp
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
 * [make-howto-insta11](https://github.com/hymkor/make-howto-insta11) 0.2.0 - Output how to install our application with the scoop installer for README.md like this.
@@ -38,7 +38,7 @@ Repositories
 * [showver](https://github.com/hymkor/vo) 1.0.2 - Show the version number , timestamp and MD5SUM of Windows Executables
 * [smake](https://github.com/hymkor/smake) 0.3.0 - SMake (Make by S-expression)
 * [sponge](https://github.com/hymkor/sponge) 0.1.0 - sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
-* [sqlbless](https://github.com/hymkor/sqlbless) 0.7.1 - The Command-line Database Client
+* [sqlbless](https://github.com/hymkor/sqlbless) 0.8.0 - The Command-line Database Client
 * [tmt](https://github.com/hymkor/tmt) 0.7.0 - tmt - Twitter Maintenance Tool
 * [tweetzip2md](https://github.com/hymkor/tweetzip2md) 0.1.0 - Convert from Twitter's downloaded archive to markdown files
 * [type-rnote](https://github.com/hymkor/type-rnote) 0.1.1 - Read your releases of github repository and cat the release notes to STDOUT.
@@ -48,7 +48,7 @@ Repositories
 * [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
 
 benhoyt
-* [goawk](https://github.com/benhoyt/goawk) 1.22.0 - A POSIX-compliant AWK interpreter written in Go, with CSV support
+* [goawk](https://github.com/benhoyt/goawk) 1.24.0 - A POSIX-compliant AWK interpreter written in Go, with CSV support
 
 koron
 * [vim-kaoriya](https://github.com/koron/vim-kaoriya) 8.2.1287-20200724 - Vim+kaoriya build system
