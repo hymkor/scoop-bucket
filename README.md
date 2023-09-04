@@ -39,7 +39,7 @@ Repositories
 * [showver](https://github.com/hymkor/vo) 1.0.2 - Show the version number , timestamp and MD5SUM of Windows Executables
 * [smake](https://github.com/hymkor/smake) 0.3.0 - SMake (Make by S-expression)
 * [sponge](https://github.com/hymkor/sponge) 0.1.0 - sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
-* [sqlbless](https://github.com/hymkor/sqlbless) 0.8.0 - The Command-line Database Client
+* [sqlbless](https://github.com/hymkor/sqlbless) 0.9.0 - The Command-line Database Client
 * [tmt](https://github.com/hymkor/tmt) 0.7.0 - tmt - Twitter Maintenance Tool
 * [tweetzip2md](https://github.com/hymkor/tweetzip2md) 0.1.0 - Convert from Twitter's downloaded archive to markdown files
 * [type-rnote](https://github.com/hymkor/type-rnote) 0.1.1 - Read your releases of github repository and cat the release notes to STDOUT.
