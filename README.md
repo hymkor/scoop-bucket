@@ -18,7 +18,7 @@ Repositories
 ------------
 
 * [binview](https://github.com/hymkor/binview) 0.6.3 - Binary data view/editor on the terminal
-* [csview](https://github.com/hymkor/csview) 0.6.2 - Simple CSV viewer/editor
+* [csview](https://github.com/hymkor/csview) 1.1.1 - Simple CSV viewer/editor
 * [cure](https://github.com/hymkor/cure) 0.3.1 - CURE.exe - Color-Unicoded moRE.exe
 * [enexToHtml](https://github.com/hymkor/go-enex) 0.1.1 - Convert Evernote's export file(*.enex) into HTML and images
 * [example-into-readme](https://github.com/hymkor/example-into-readme) 0.3.1 - Insert example-files into `README.md` at the code block in the current directory.
