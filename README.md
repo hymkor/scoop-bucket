@@ -49,7 +49,7 @@ Repositories
 * [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
 
 benhoyt
-* [goawk](https://github.com/benhoyt/goawk) 1.24.0 - A POSIX-compliant AWK interpreter written in Go, with CSV support
+* [goawk](https://github.com/benhoyt/goawk) 1.25.0 - A POSIX-compliant AWK interpreter written in Go, with CSV support
 
 koron
 * [vim-kaoriya](https://github.com/koron/vim-kaoriya) 8.2.1287-20200724 - Vim+kaoriya build system
