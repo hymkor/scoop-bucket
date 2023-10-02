@@ -6,6 +6,7 @@
     binview
     csview
     cure
+    example-into-readme
     fcopy
     filelock
     findo
