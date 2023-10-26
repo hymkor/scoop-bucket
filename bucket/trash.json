@@ -1,0 +1,30 @@
+{
+    "version": "0.1.0",
+    "description": "Move file(s) to trash-box of Microsoft Windows",
+    "homepage": "https://github.com/hymkor/trash-rs",
+    "license": "MIT License",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/hymkor/trash-rs/releases/download/v0.1.0/trash-v0.1.0-windows-i686.zip",
+            "hash": "16dcffb0a15ada45d14f418393a4ec94eadab7e950f9638bd86f4c06fe622a32"
+        },
+        "64bit": {
+            "url": "https://github.com/hymkor/trash-rs/releases/download/v0.1.0/trash-v0.1.0-windows-x86_64.zip",
+            "hash": "930e4469351c36769b635c033891577c57bcdce233f114bb4d93be1c2f552e1d"
+        }
+    },
+    "bin": [
+        "trash.exe"
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "32bit": {
+                "url": "https://github.com/hymkor/trash-rs/releases/download/v$version/trash-v$version-windows-i686.zip"
+            },
+            "64bit": {
+                "url": "https://github.com/hymkor/trash-rs/releases/download/v$version/trash-v$version-windows-x86_64.zip"
+            }
+        }
+    }
+}
