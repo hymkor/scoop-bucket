@@ -41,6 +41,7 @@ Repositories
 * [smake](https://github.com/hymkor/smake) 0.3.0 - SMake (Make by S-expression)
 * [sponge](https://github.com/hymkor/sponge) 0.1.0 - sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
 * [sqlbless](https://github.com/hymkor/sqlbless) 0.9.0 - The Command-line Database Client
+* [sugui](https://github.com/hymkor/sugui-rs) 0.1.0 - Start program as Administrator on Windows with no consoles
 * [tmt](https://github.com/hymkor/tmt) 0.7.0 - tmt - Twitter Maintenance Tool
 * [trash](https://github.com/hymkor/trash-rs) 0.1.0 - Move file(s) to trash-box of Microsoft Windows
 * [tweetzip2md](https://github.com/hymkor/tweetzip2md) 0.1.0 - Convert from Twitter's downloaded archive to markdown files

@@ -1,0 +1,30 @@
+{
+    "version": "0.1.0",
+    "description": "Start program as Administrator on Windows with no consoles",
+    "homepage": "https://github.com/hymkor/sugui-rs",
+    "license": "MIT License",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/hymkor/sugui-rs/releases/download/v0.1.0/sugui-v0.1.0-windows-i686.zip",
+            "hash": "086150ffe58f25456f6072c826594ae4689b54215aaaf36cb10eb9cb574e8a6e"
+        },
+        "64bit": {
+            "url": "https://github.com/hymkor/sugui-rs/releases/download/v0.1.0/sugui-v0.1.0-windows-x86_64.zip",
+            "hash": "e285d747e35caf15659ce4fd85492faaf43f45e0b8c358bd85bc349271c30720"
+        }
+    },
+    "bin": [
+        "sugui.exe"
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "32bit": {
+                "url": "https://github.com/hymkor/sugui-rs/releases/download/v$version/sugui-v$version-windows-i686.zip"
+            },
+            "64bit": {
+                "url": "https://github.com/hymkor/sugui-rs/releases/download/v$version/sugui-v$version-windows-x86_64.zip"
+            }
+        }
+    }
+}
