@@ -57,6 +57,9 @@ benhoyt
 koron
 * [vim-kaoriya](https://github.com/koron/vim-kaoriya) 8.2.1287-20200724 - Vim+kaoriya build system
 
+martinvonz
+* [jj](https://github.com/martinvonz/jj) 0.11.0 - A Git-compatible DVCS that is both simple and powerful
+
 mattn
 * [twty](https://github.com/mattn/twty) 0.0.13 - command-line twitter client written in golang
 
