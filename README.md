@@ -46,7 +46,7 @@ Repositories
 * [trash](https://github.com/hymkor/trash-rs) 0.1.0 - Move file(s) to trash-box of Microsoft Windows
 * [tweetzip2md](https://github.com/hymkor/tweetzip2md) 0.1.0 - Convert from Twitter's downloaded archive to markdown files
 * [type-rnote](https://github.com/hymkor/type-rnote) 0.1.1 - Read your releases of github repository and cat the release notes to STDOUT.
-* [uncozip](https://github.com/hymkor/uncozip) 0.7.1 - UNzip COrrupted ZIP file that does not have the central directory records.
+* [uncozip](https://github.com/hymkor/uncozip) 0.7.2 - UNzip COrrupted ZIP file that does not have the central directory records.
 * [vo](https://github.com/hymkor/vo) 1.0.2 - Visual-studio client for command-line Operation
 * [xnhttpd](https://github.com/hymkor/xnhttpd) 0.7.3 - CGI Server for test uses instead of ANHTTPD
 * [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
