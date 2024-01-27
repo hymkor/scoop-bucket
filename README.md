@@ -18,6 +18,7 @@ Repositories
 ------------
 
 * [Download-Count.ps1](https://github.com/hymkor/Download-Count.ps1) 0.1.0 - A PowerShell script that reports how many assets on GitHub's Releases page have been downloaded.
+* [Update-Exe-All.ps1](https://github.com/hymkor/Update-Exe-All.ps1) 0.1.0 - A PowerShell script that overwrites the specified executable file to a file with the same name in the directory specified by the environment variable PATH
 * [binview](https://github.com/hymkor/binview) 0.6.3 - Binary data view/editor on the terminal
 * [csview](https://github.com/hymkor/csview) 1.1.2 - Simple CSV viewer/editor
 * [cure](https://github.com/hymkor/cure) 0.3.1 - CURE.exe - Color-Unicoded moRE.exe
