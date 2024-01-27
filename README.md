@@ -36,7 +36,7 @@ Repositories
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
 * [make-howto-insta11](https://github.com/hymkor/make-howto-insta11) 0.3.0 - Output how to install our application with the scoop installer for README.md like this.
 * [make-scoop-bucket-index](https://github.com/hymkor/make-scoop-bucket-index) 0.0.3 - Make README.md of the bucket repository
-* [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest) 0.8.0 - Make scoop manifest （そのまんまや！）
+* [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest) 0.9.0 - Make the manifest file of the scoop-installer
 * [pipe2excel](https://github.com/hymkor/pipe2excel) 0.5.2 - Make Pipeline To Excel and send each CSV To Excel cell as a string
 * [seek](https://github.com/hymkor/seek) 0.2.0 - seek - color-grep for ansi/utf8 (Windows)
 * [showver](https://github.com/hymkor/vo) 1.0.2 - Show the version number , timestamp and MD5SUM of Windows Executables
