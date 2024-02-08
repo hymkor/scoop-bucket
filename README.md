@@ -17,7 +17,7 @@ scoop install <manifest>
 Repositories
 ------------
 
-* [Download-Count.ps1](https://github.com/hymkor/Download-Count.ps1) 0.1.0 - A PowerShell script that reports how many assets on GitHub's Releases page have been downloaded.
+* [Download-Count.ps1](https://github.com/hymkor/Download-Count.ps1) 0.2.0 - A PowerShell script that reports how many assets on GitHub's Releases page have been downloaded.
 * [Update-Exe-All.ps1](https://github.com/hymkor/Update-Exe-All.ps1) 0.1.0 - A PowerShell script that overwrites the specified executable file to a file with the same name in the directory specified by the environment variable PATH
 * [binview](https://github.com/hymkor/binview) 0.6.3 - Binary data view/editor on the terminal
 * [csview](https://github.com/hymkor/csview) 1.1.2 - Simple CSV viewer/editor
@@ -34,7 +34,7 @@ Repositories
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
 * [htnblog](https://github.com/hymkor/go-htnblog) 0.9.0 - はてなブログ-クライアント
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
-* [make-howto-insta11](https://github.com/hymkor/make-howto-insta11) 0.3.0 - Output how to install our application with the scoop installer for README.md like this.
+* [make-howto-insta11](https://github.com/hymkor/make-howto-insta11) 0.4.0 - Output how to install our application with the scoop installer for README.md like this.
 * [make-scoop-bucket-index](https://github.com/hymkor/make-scoop-bucket-index) 0.0.3 - Make README.md of the bucket repository
 * [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest) 0.9.0 - Make the manifest file of the scoop-installer
 * [pipe2excel](https://github.com/hymkor/pipe2excel) 0.5.2 - Make Pipeline To Excel and send each CSV To Excel cell as a string
