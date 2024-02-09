@@ -60,6 +60,7 @@ koron
 * [vim-kaoriya](https://github.com/koron/vim-kaoriya) 8.2.1287-20200724 - Vim+kaoriya build system
 
 mattn
+* [bsky](https://github.com/mattn/bsky) 0.0.49 - A cli application for bluesky social
 * [twty](https://github.com/mattn/twty) 0.0.13 - command-line twitter client written in golang
 
 nyaosorg
