@@ -1,0 +1,38 @@
+{
+    "version": "9.1.0083",
+    "description": "Vim Win32 Installer",
+    "homepage": "https://github.com/vim/vim-win32-installer",
+    "license": "Vim",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/vim/vim-win32-installer/releases/download/v9.1.0083/gvim_9.1.0083_x86.zip",
+            "hash": "804762ec33ba7d4ccd46e456499af19c0dc7cee03b6c14988296ae403f1c749c"
+        },
+        "64bit": {
+            "url": "https://github.com/vim/vim-win32-installer/releases/download/v9.1.0083/gvim_9.1.0083_x64.zip",
+            "hash": "2ae22e2bba4e4c2678e392f633b76cbf40d5bae55e74f8d41eebcde03dedeb68"
+        }
+    },
+    "bin": [
+        "vim/vim91/diff.exe",
+        "vim/vim91/gvim.exe",
+        "vim/vim91/install.exe",
+        "vim/vim91/tee.exe",
+        "vim/vim91/uninstall.exe",
+        "vim/vim91/vim.exe",
+        "vim/vim91/vimrun.exe",
+        "vim/vim91/winpty-agent.exe",
+        "vim/vim91/xxd.exe"
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "32bit": {
+                "url": "https://github.com/vim/vim-win32-installer/releases/download/v$version/gvim_$version_x86.zip"
+            },
+            "64bit": {
+                "url": "https://github.com/vim/vim-win32-installer/releases/download/v$version/gvim_$version_x64.zip"
+            }
+        }
+    }
+}
