@@ -24,7 +24,7 @@ Repositories
 * [cure](https://github.com/hymkor/cure) 0.3.1 - CURE.exe - Color-Unicoded moRE.exe
 * [enexToHtml](https://github.com/hymkor/go-enex) 0.1.1 - Convert Evernote's export file(\*.enex) into HTML and images
 * [example-into-readme](https://github.com/hymkor/example-into-readme) 0.4.0 - Insert example-files into `README.md` at the code block in the current directory.
-* [expect-lua](https://github.com/hymkor/expect) 0.10.0 - Expect-lua for Windows
+* [expect-lua](https://github.com/hymkor/expect) 0.11.0 - Expect-lua for Windows
 * [fcopy](https://github.com/hymkor/fcopy) 0.2.0 - Force to copy files even if they are using by other processes and/or the destination directories are protected
 * [filelock](https://github.com/hymkor/filelock) 0.1.0 - Keep the file in use until EOF is encountered on standard input for testing file locking.
 * [findo](https://github.com/hymkor/findo) 0.3.0 - Search filename from the subdirectories of the current directory.
@@ -67,7 +67,7 @@ nyaosorg
 * [go-importconst](https://github.com/nyaosorg/go-importconst) 0.3.0 - Import constants from C++ headers for Go without 'cgo'
 
 vim
-* [vim-nightly](https://github.com/vim/vim-win32-installer) 9.1.0083 - Vim Win32 Installer
+* [vim-nightly](https://github.com/vim/vim-win32-installer) 9.1.0104 - Vim Win32 Installer
 
 zat-kaoru-hayama
 * [log2team](https://github.com/zat-kaoru-hayama/log2team) 20191119 - Transfer log from STDIN to Microsoft Teams
