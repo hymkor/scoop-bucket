@@ -66,9 +66,6 @@ mattn
 nyaosorg
 * [go-importconst](https://github.com/nyaosorg/go-importconst) 0.3.0 - Import constants from C++ headers for Go without 'cgo'
 
-vim
-* [vim-nightly](https://github.com/vim/vim-win32-installer) 9.1.0104 - Vim Win32 Installer
-
 zat-kaoru-hayama
 * [log2team](https://github.com/zat-kaoru-hayama/log2team) 20191119 - Transfer log from STDIN to Microsoft Teams
 * [md5tree](https://github.com/zat-kaoru-hayama/md5tree) 0.1.1 - Output md5sum of the files under the specified directory.
