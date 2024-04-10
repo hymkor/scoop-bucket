@@ -64,6 +64,7 @@ mattn
 * [twty](https://github.com/mattn/twty) 0.0.13 - command-line twitter client written in golang
 
 nyaosorg
+* [box](https://github.com/nyaosorg/go-box) 2.2.0 - go-box - interactive item selector for the terminal
 * [go-importconst](https://github.com/nyaosorg/go-importconst) 0.3.0 - Import constants from C++ headers for Go without 'cgo'
 
 zat-kaoru-hayama
