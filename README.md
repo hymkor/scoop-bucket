@@ -20,7 +20,7 @@ Repositories
 * [Download-Count.ps1](https://github.com/hymkor/Download-Count.ps1) 0.2.0 - A PowerShell script that reports how many assets on GitHub's Releases page have been downloaded.
 * [Update-Exe-All.ps1](https://github.com/hymkor/Update-Exe-All.ps1) 0.2.0 - A PowerShell script that overwrites the specified executable file to a file with the same name in the directory specified by the environment variable PATH
 * [binview](https://github.com/hymkor/binview) 0.6.3 - Binary data view/editor on the terminal
-* [csvi](https://github.com/hymkor/csvi) 1.7.0 - The unbreakabe CSV editor - "CSView"
+* [csvi](https://github.com/hymkor/csvi) 1.7.1 - Terminal CSV Editor
 * [csview](https://github.com/hymkor/csview) 1.5.0 - The unbreakabe CSV editor - "CSView"
 * [cure](https://github.com/hymkor/cure) 0.3.1 - CURE.exe - Color-Unicoded moRE.exe
 * [enexToHtml](https://github.com/hymkor/go-enex) 0.1.1 - Convert Evernote's export file(\*.enex) into HTML and images
