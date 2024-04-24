@@ -20,7 +20,7 @@ Repositories
 * [Download-Count.ps1](https://github.com/hymkor/Download-Count.ps1) 0.2.0 - A PowerShell script that reports how many assets on GitHub's Releases page have been downloaded.
 * [Update-Exe-All.ps1](https://github.com/hymkor/Update-Exe-All.ps1) 0.2.0 - A PowerShell script that overwrites the specified executable file to a file with the same name in the directory specified by the environment variable PATH
 * [binview](https://github.com/hymkor/binview) 0.6.3 - Binary data view/editor on the terminal
-* [csvi](https://github.com/hymkor/csvi) 1.7.1 - Terminal CSV Editor
+* [csvi](https://github.com/hymkor/csvi) 1.8.0 - Terminal CSV Editor
 * [csview](https://github.com/hymkor/csview) 1.5.0 - The unbreakabe CSV editor - "CSView"
 * [cure](https://github.com/hymkor/cure) 0.3.1 - CURE.exe - Color-Unicoded moRE.exe
 * [enexToHtml](https://github.com/hymkor/go-enex) 0.1.1 - Convert Evernote's export file(\*.enex) into HTML and images
@@ -57,7 +57,7 @@ Repositories
 * [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
 
 benhoyt
-* [goawk](https://github.com/benhoyt/goawk) 1.26.0 - A POSIX-compliant AWK interpreter written in Go, with CSV support
+* [goawk](https://github.com/benhoyt/goawk) 1.27.0 - A POSIX-compliant AWK interpreter written in Go, with CSV support
 
 mattn
 * [bsky](https://github.com/mattn/bsky) 0.0.49 - A cli application for bluesky social
