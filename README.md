@@ -25,7 +25,7 @@ Repositories
 * [cure](https://github.com/hymkor/cure) 0.3.1 - CURE.exe - Color-Unicoded moRE.exe
 * [enexToHtml](https://github.com/hymkor/go-enex) 0.1.1 - Convert Evernote's export file(\*.enex) into HTML and images
 * [env-rs](https://github.com/hymkor/env-rs) 0.3.0 - Env.exe for Windows
-* [example-into-readme](https://github.com/hymkor/example-into-readme) 0.4.0 - Insert example-files into `README.md` at the code block in the current directory.
+* [example-into-readme](https://github.com/hymkor/example-into-readme) 0.5.0 - Insert example-files into `README.md` at the code block in the current directory.
 * [expect-lua](https://github.com/hymkor/expect) 0.11.0 - Expect-lua for Windows
 * [fcopy](https://github.com/hymkor/fcopy) 0.2.0 - Force to copy files even if they are using by other processes and/or the destination directories are protected
 * [filelock](https://github.com/hymkor/filelock) 0.1.0 - Keep the file in use until EOF is encountered on standard input for testing file locking.
@@ -48,7 +48,7 @@ Repositories
 * [sugui](https://github.com/hymkor/sugui-rs) 0.1.1 - Start program as Administrator on Windows with no consoles
 * [trash](https://github.com/hymkor/trash-rs) 0.1.0 - Move file(s) to trash-box of Microsoft Windows
 * [tweetzip2md](https://github.com/hymkor/tweetzip2md) 0.1.0 - Convert from Twitter's downloaded archive to markdown files
-* [type-rnote](https://github.com/hymkor/type-rnote) 0.1.1 - Read your releases of github repository and cat the release notes to STDOUT.
+* [type-rnote](https://github.com/hymkor/type-rnote) 0.2.0 - Read your releases of github repository and cat the release notes to STDOUT.
 * [uncozip](https://github.com/hymkor/uncozip) 0.7.2 - UNzip COrrupted ZIP file that does not have the central directory records.
 * [unenex](https://github.com/hymkor/go-enex) 0.2.0 - Convert Evernote's export file(\*.enex) into HTML and images
 * [verifyarc](https://github.com/hymkor/verifyarc) 0.1.0 - A tool that verifies that when there is a ZIP file and a directory in which it seems to have been extracted, both match and it is safe to delete one
