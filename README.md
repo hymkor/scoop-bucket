@@ -42,7 +42,7 @@ Repositories
 * [pipe2excel](https://github.com/hymkor/pipe2excel) 0.5.2 - Make Pipeline To Excel and send each CSV To Excel cell as a string
 * [seek](https://github.com/hymkor/seek) 0.2.0 - seek - color-grep for ansi/utf8 (Windows)
 * [showver](https://github.com/hymkor/vo) 1.0.2 - Show the version number , timestamp and MD5SUM of Windows Executables
-* [smake](https://github.com/hymkor/smake) 0.3.0 - SMake (Make by S-expression)
+* [smake](https://github.com/hymkor/smake) 0.4.0 - SMake (Make by S-expression)
 * [sponge](https://github.com/hymkor/sponge) 0.2.0 - sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
 * [sqlbless](https://github.com/hymkor/sqlbless) 0.14.0 - The Command-line Database Client
 * [sugui](https://github.com/hymkor/sugui-rs) 0.1.1 - Start program as Administrator on Windows with no consoles
