@@ -32,7 +32,7 @@ Repositories
 * [findo](https://github.com/hymkor/findo) 0.3.0 - Search filename from the subdirectories of the current directory.
 * [genestub](https://github.com/hymkor/genestub) 2.0.0.0 - Stub module to test the child-process is called as expected.
 * [gm](https://github.com/hymkor/gm) 0.0.1 - Golang Minimal text editor (凸)/
-* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.1 - gmnlisp - the subset of ISLisp
+* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.2 - gmnlisp - the subset of ISLisp
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
 * [htnblog](https://github.com/hymkor/go-htnblog) 1.1.0 - はてなブログ-クライアント
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
@@ -59,7 +59,7 @@ Repositories
 * [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
 
 benhoyt
-* [goawk](https://github.com/benhoyt/goawk) 1.27.0 - A POSIX-compliant AWK interpreter written in Go, with CSV support
+* [goawk](https://github.com/benhoyt/goawk) 1.28.1 - A POSIX-compliant AWK interpreter written in Go, with CSV support
 
 mattn
 * [bsky](https://github.com/mattn/bsky) 0.0.49 - A cli application for bluesky social
