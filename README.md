@@ -31,8 +31,8 @@ Repositories
 * [filelock](https://github.com/hymkor/filelock) 0.1.0 - Keep the file in use until EOF is encountered on standard input for testing file locking.
 * [findo](https://github.com/hymkor/findo) 0.3.0 - Search filename from the subdirectories of the current directory.
 * [genestub](https://github.com/hymkor/genestub) 2.0.0.0 - Stub module to test the child-process is called as expected.
-* [gm](https://github.com/hymkor/gm) 0.0.1 - Golang Minimal text editor (凸)/
-* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.2 - gmnlisp - the subset of ISLisp
+* [gm](https://github.com/hymkor/gm) 0.0.2 - Golang Minimal text editor (凸)/
+* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.3 - gmnlisp - the subset of ISLisp
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
 * [htnblog](https://github.com/hymkor/go-htnblog) 1.1.0 - はてなブログ-クライアント
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
@@ -46,7 +46,7 @@ Repositories
 * [single2double](https://github.com/hymkor/single2double) 0.0.1 - Replace single-quotations in arguments of command line to backslashes and double quotations
 * [smake](https://github.com/hymkor/smake) 0.4.1 - SMake (Make by S-expression)
 * [sponge](https://github.com/hymkor/sponge) 0.2.0 - sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
-* [sqlbless](https://github.com/hymkor/sqlbless) 0.15.2 - The Command-line Database Client
+* [sqlbless](https://github.com/hymkor/sqlbless) 0.16.0 - The Command-line Database Client
 * [sugui](https://github.com/hymkor/sugui-rs) 0.1.1 - Start program as Administrator on Windows with no consoles
 * [trash](https://github.com/hymkor/trash-rs) 0.1.0 - Move file(s) to trash-box of Microsoft Windows
 * [tweetzip2md](https://github.com/hymkor/tweetzip2md) 0.1.0 - Convert from Twitter's downloaded archive to markdown files
@@ -60,10 +60,10 @@ Repositories
 * [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
 
 benhoyt
-* [goawk](https://github.com/benhoyt/goawk) 1.29.0 - A POSIX-compliant AWK interpreter written in Go, with CSV support
+* [goawk](https://github.com/benhoyt/goawk) 1.29.1 - A POSIX-compliant AWK interpreter written in Go, with CSV support
 
 mattn
-* [bsky](https://github.com/mattn/bsky) 0.0.49 - A cli application for bluesky social
+* [bsky](https://github.com/mattn/bsky) 0.0.67 - A cli application for bluesky social
 * [twty](https://github.com/mattn/twty) 0.0.13 - command-line twitter client written in golang
 
 nyaosorg
