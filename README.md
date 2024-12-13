@@ -32,10 +32,10 @@ Repositories
 * [findo](https://github.com/hymkor/findo) 0.3.0 - Search filename from the subdirectories of the current directory.
 * [genestub](https://github.com/hymkor/genestub) 2.0.0.0 - Stub module to test the child-process is called as expected.
 * [gm](https://github.com/hymkor/gm) 0.0.2 - Golang Minimal text editor (凸)/
-* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.3 - gmnlisp - the subset of ISLisp
+* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.4 - gmnlisp - the subset of ISLisp
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
 * [htnblog](https://github.com/hymkor/go-htnblog) 1.1.0 - はてなブログ-クライアント
-* [lispect](https://github.com/hymkor/lispect) 0.1.0 - A text-terminal automation tool similar to expect(1) using the subset of ISLisp
+* [lispect](https://github.com/hymkor/lispect) 0.4.0 - A text-terminal automation tool similar to expect(1) using the subset of ISLisp
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
 * [make-howto-insta11](https://github.com/hymkor/make-howto-insta11) 0.4.0 - Output how to install our application with the scoop installer for README.md like this.
 * [make-scoop-bucket-index](https://github.com/hymkor/make-scoop-bucket-index) 0.0.4 - Make README.md of the bucket repository
