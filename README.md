@@ -32,7 +32,7 @@ Repositories
 * [findo](https://github.com/hymkor/findo) 0.3.0 - Search filename from the subdirectories of the current directory.
 * [genestub](https://github.com/hymkor/genestub) 2.0.0.0 - Stub module to test the child-process is called as expected.
 * [gm](https://github.com/hymkor/gm) 0.0.2 - Golang Minimal text editor (凸)/
-* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.4 - gmnlisp - the subset of ISLisp
+* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.7 - The interpreter of ISLisp written in Go
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
 * [htnblog](https://github.com/hymkor/go-htnblog) 1.1.0 - はてなブログ-クライアント
 * [lispect](https://github.com/hymkor/lispect) 0.4.0 - A text-terminal automation tool similar to expect(1) using the subset of ISLisp
@@ -45,7 +45,7 @@ Repositories
 * [seek](https://github.com/hymkor/seek) 0.2.0 - seek - color-grep for ansi/utf8 (Windows)
 * [showver](https://github.com/hymkor/vo) 1.0.2 - Show the version number , timestamp and MD5SUM of Windows Executables
 * [single2double](https://github.com/hymkor/single2double) 0.0.1 - Replace single-quotations in arguments of command line to backslashes and double quotations
-* [smake](https://github.com/hymkor/smake) 0.4.1 - SMake (Make by S-expression)
+* [smake](https://github.com/hymkor/smake) 0.4.2 - SMake (Make by S-expression)
 * [sponge](https://github.com/hymkor/sponge) 0.2.0 - sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
 * [sqlbless](https://github.com/hymkor/sqlbless) 0.16.0 - The Command-line Database Client
 * [sugui](https://github.com/hymkor/sugui-rs) 0.1.1 - Start program as Administrator on Windows with no consoles
@@ -53,7 +53,7 @@ Repositories
 * [tweetzip2md](https://github.com/hymkor/tweetzip2md) 0.1.0 - Convert from Twitter's downloaded archive to markdown files
 * [type-rnote](https://github.com/hymkor/type-rnote) 0.2.0 - Read your releases of github repository and cat the release notes to STDOUT.
 * [uncozip](https://github.com/hymkor/uncozip) 0.7.2 - UNzip COrrupted ZIP file that does not have the central directory records.
-* [unenex](https://github.com/hymkor/go-enex) 0.2.0 - Convert Evernote's export file(\*.enex) into HTML and images
+* [unenex](https://github.com/hymkor/go-enex) 0.2.1 - Convert Evernote's export file(\*.enex) into HTML and images
 * [verifyarc](https://github.com/hymkor/verifyarc) 0.1.0 - A tool that verifies that when there is a ZIP file and a directory in which it seems to have been extracted, both match and it is safe to delete one
 * [vim-hogehoge](https://www.vim.org/download.php) 9.1.0 - download : vim online
 * [vo](https://github.com/hymkor/vo) 1.0.2 - Visual-studio client for command-line Operation
@@ -70,6 +70,9 @@ mattn
 nyaosorg
 * [box](https://github.com/nyaosorg/go-box) 2.2.1 - go-box - interactive item selector for the terminal
 * [go-importconst](https://github.com/nyaosorg/go-importconst) 0.3.0 - Import constants from C++ headers for Go without 'cgo'
+
+restic
+* [rest-server](https://github.com/restic/rest-server)  - Rest Server is a high performance HTTP server that implements restic's REST backend API.
 
 zat-kaoru-hayama
 * [log2team](https://github.com/zat-kaoru-hayama/log2team) 20191119 - Transfer log from STDIN to Microsoft Teams
