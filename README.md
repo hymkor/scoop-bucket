@@ -53,7 +53,7 @@ Repositories
 * [tweetzip2md](https://github.com/hymkor/tweetzip2md) 0.1.0 - Convert from Twitter's downloaded archive to markdown files
 * [type-rnote](https://github.com/hymkor/type-rnote) 0.2.0 - Read your releases of github repository and cat the release notes to STDOUT.
 * [uncozip](https://github.com/hymkor/uncozip) 0.7.2 - UNzip COrrupted ZIP file that does not have the central directory records.
-* [unenex](https://github.com/hymkor/go-enex) 0.2.1 - Convert Evernote's export file(\*.enex) into HTML and images
+* [unenex](https://github.com/hymkor/go-enex) 0.3.6 - (unenex) Convert Evernote's export file(\*.enex) into HTML and images
 * [verifyarc](https://github.com/hymkor/verifyarc) 0.1.0 - A tool that verifies that when there is a ZIP file and a directory in which it seems to have been extracted, both match and it is safe to delete one
 * [vim-hogehoge](https://www.vim.org/download.php) 9.1.0 - download : vim online
 * [vo](https://github.com/hymkor/vo) 1.0.2 - Visual-studio client for command-line Operation
@@ -70,9 +70,6 @@ mattn
 nyaosorg
 * [box](https://github.com/nyaosorg/go-box) 2.2.1 - go-box - interactive item selector for the terminal
 * [go-importconst](https://github.com/nyaosorg/go-importconst) 0.3.0 - Import constants from C++ headers for Go without 'cgo'
-
-restic
-* [rest-server](https://github.com/restic/rest-server)  - Rest Server is a high performance HTTP server that implements restic's REST backend API.
 
 zat-kaoru-hayama
 * [log2team](https://github.com/zat-kaoru-hayama/log2team) 20191119 - Transfer log from STDIN to Microsoft Teams
