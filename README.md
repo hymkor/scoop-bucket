@@ -32,10 +32,10 @@ Repositories
 * [findo](https://github.com/hymkor/findo) 0.3.0 - Search filename from the subdirectories of the current directory.
 * [genestub](https://github.com/hymkor/genestub) 2.0.0.0 - Stub module to test the child-process is called as expected.
 * [gm](https://github.com/hymkor/gm) 0.0.2 - Golang Minimal text editor (凸)/
-* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.7 - The interpreter of ISLisp written in Go
+* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.9 - The interpreter of ISLisp written in Go
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
 * [htnblog](https://github.com/hymkor/go-htnblog) 1.1.0 - はてなブログ-クライアント
-* [lispect](https://github.com/hymkor/lispect) 0.4.0 - A text-terminal automation tool similar to expect(1) using the subset of ISLisp
+* [lispect](https://github.com/hymkor/lispect) 0.4.1 - A text-terminal automation tool similar to expect(1) using the subset of ISLisp
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
 * [make-howto-insta11](https://github.com/hymkor/make-howto-insta11) 0.4.0 - Output how to install our application with the scoop installer for README.md like this.
 * [make-scoop-bucket-index](https://github.com/hymkor/make-scoop-bucket-index) 0.0.4 - Make README.md of the bucket repository
@@ -45,9 +45,9 @@ Repositories
 * [seek](https://github.com/hymkor/seek) 0.2.0 - seek - color-grep for ansi/utf8 (Windows)
 * [showver](https://github.com/hymkor/vo) 1.0.2 - Show the version number , timestamp and MD5SUM of Windows Executables
 * [single2double](https://github.com/hymkor/single2double) 0.0.1 - Replace single-quotations in arguments of command line to backslashes and double quotations
-* [smake](https://github.com/hymkor/smake) 0.4.2 - SMake (Make by S-expression)
+* [smake](https://github.com/hymkor/smake) 0.4.3 - SMake (Make by S-expression)
 * [sponge](https://github.com/hymkor/sponge) 0.2.0 - sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
-* [sqlbless](https://github.com/hymkor/sqlbless) 0.16.0 - The Command-line Database Client
+* [sqlbless](https://github.com/hymkor/sqlbless) 0.17.0 - The Command-line Database Client
 * [sugui](https://github.com/hymkor/sugui-rs) 0.1.1 - Start program as Administrator on Windows with no consoles
 * [trash](https://github.com/hymkor/trash-rs) 0.1.0 - Move file(s) to trash-box of Microsoft Windows
 * [tweetzip2md](https://github.com/hymkor/tweetzip2md) 0.1.0 - Convert from Twitter's downloaded archive to markdown files
@@ -64,7 +64,7 @@ benhoyt
 * [goawk](https://github.com/benhoyt/goawk) 1.29.1 - A POSIX-compliant AWK interpreter written in Go, with CSV support
 
 mattn
-* [bsky](https://github.com/mattn/bsky) 0.0.67 - A cli application for bluesky social
+* [bsky](https://github.com/mattn/bsky) 0.0.73 - A cli application for bluesky social
 * [twty](https://github.com/mattn/twty) 0.0.13 - command-line twitter client written in golang
 
 nyaosorg
