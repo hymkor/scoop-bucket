@@ -40,7 +40,7 @@ Repositories
 * [make-howto-insta11](https://github.com/hymkor/make-howto-insta11) 0.4.0 - Output how to install our application with the scoop installer for README.md like this.
 * [make-scoop-bucket-index](https://github.com/hymkor/make-scoop-bucket-index) 0.0.4 - Make README.md of the bucket repository
 * [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest) 0.10.0 - Make the manifest file of the scoop-installer
-* [minipage](https://github.com/hymkor/minipage) 0.2.0 - Minimal Static Page Generator
+* [minipage](https://github.com/hymkor/minipage) 0.3.0 - Minimal Static Page Generator
 * [pipe2excel](https://github.com/hymkor/pipe2excel) 0.5.2 - Make Pipeline To Excel and send each CSV To Excel cell as a string
 * [script](https://github.com/hymkor/script) 0.1.0 - script.exe - make typescript of terminal session like that of Linux for Windows10 or later
 * [seek](https://github.com/hymkor/seek) 0.2.0 - seek - color-grep for ansi/utf8 (Windows)
