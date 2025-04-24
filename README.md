@@ -50,7 +50,7 @@ Repositories
 * [sponge](https://github.com/hymkor/sponge) 0.2.0 - sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
 * [sqlbless](https://github.com/hymkor/sqlbless) 0.17.0 - The Command-line Database Client
 * [sugui](https://github.com/hymkor/sugui-rs) 0.1.1 - Start program as Administrator on Windows with no consoles
-* [trash](https://github.com/hymkor/trash-rs) 0.1.0 - Move file(s) to trash-box of Microsoft Windows
+* [trash](https://github.com/hymkor/trash-rs) 0.2.0 - Move file(s) to trash-box of Microsoft Windows
 * [tweetzip2md](https://github.com/hymkor/tweetzip2md) 0.1.0 - Convert from Twitter's downloaded archive to markdown files
 * [type-rnote](https://github.com/hymkor/type-rnote) 0.3.0 - Read your releases of github repository and cat the release notes to STDOUT.
 * [uncozip](https://github.com/hymkor/uncozip) 0.7.2 - UNzip COrrupted ZIP file that does not have the central directory records.
