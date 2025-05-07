@@ -32,7 +32,7 @@ Repositories
 * [findo](https://github.com/hymkor/findo) 0.3.0 - Search filename from the subdirectories of the current directory.
 * [genestub](https://github.com/hymkor/genestub) 2.0.0.0 - Stub module to test the child-process is called as expected.
 * [gm](https://github.com/hymkor/gm) 0.0.2 - Golang Minimal text editor (凸)/
-* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.9 - The interpreter of ISLisp written in Go
+* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.10 - The interpreter of ISLisp written in Go
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
 * [htnblog](https://github.com/hymkor/go-htnblog) 1.1.0 - はてなブログ-クライアント
 * [lispect](https://github.com/hymkor/lispect) 0.5.0 - A text-terminal automation tool similar to expect(1) using the subset of ISLisp
