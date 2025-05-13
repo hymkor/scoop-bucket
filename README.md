@@ -46,7 +46,7 @@ Repositories
 * [seek](https://github.com/hymkor/seek) 0.2.0 - seek - color-grep for ansi/utf8 (Windows)
 * [showver](https://github.com/hymkor/vo) 1.0.2 - Show the version number , timestamp and MD5SUM of Windows Executables
 * [single2double](https://github.com/hymkor/single2double) 0.0.1 - Replace single-quotations in arguments of command line to backslashes and double quotations
-* [smake](https://github.com/hymkor/smake) 0.4.3 - SMake (Make by S-expression)
+* [smake](https://github.com/hymkor/smake) 0.5.0 - SMake: Make Powered by S-expressions
 * [sponge](https://github.com/hymkor/sponge) 0.2.0 - sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
 * [sqlbless](https://github.com/hymkor/sqlbless) 0.17.0 - The Command-line Database Client
 * [sugui](https://github.com/hymkor/sugui-rs) 0.1.1 - Start program as Administrator on Windows with no consoles
