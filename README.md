@@ -32,7 +32,7 @@ Repositories
 * [findo](https://github.com/hymkor/findo) 0.3.0 - Search filename from the subdirectories of the current directory.
 * [genestub](https://github.com/hymkor/genestub) 2.0.0.0 - Stub module to test the child-process is called as expected.
 * [gm](https://github.com/hymkor/gm) 0.0.2 - Golang Minimal text editor (凸)/
-* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.11 - The interpreter of ISLisp written in Go
+* [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.14 - The interpreter of ISLisp written in Go
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
 * [htnblog](https://github.com/hymkor/go-htnblog) 1.1.0 - はてなブログ-クライアント
 * [lispect](https://github.com/hymkor/lispect) 0.6.0 - A text-terminal automation tool similar to expect(1) using the subset of ISLisp
@@ -40,7 +40,7 @@ Repositories
 * [make-howto-insta11](https://github.com/hymkor/make-howto-insta11) 0.4.0 - Output how to install our application with the scoop installer for README.md like this.
 * [make-scoop-bucket-index](https://github.com/hymkor/make-scoop-bucket-index) 0.0.4 - Make README.md of the bucket repository
 * [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest) 0.10.0 - Make the manifest file of the scoop-installer
-* [minipage](https://github.com/hymkor/minipage) 0.4.0 - Minimal Static Page Generator
+* [minipage](https://github.com/hymkor/minipage) 0.6.0 - Minimal Static Page Generator
 * [pipe2excel](https://github.com/hymkor/pipe2excel) 0.5.2 - Make Pipeline To Excel and send each CSV To Excel cell as a string
 * [script](https://github.com/hymkor/script) 0.1.0 - script.exe - make typescript of terminal session like that of Linux for Windows10 or later
 * [seek](https://github.com/hymkor/seek) 0.2.0 - seek - color-grep for ansi/utf8 (Windows)
@@ -58,7 +58,7 @@ Repositories
 * [verifyarc](https://github.com/hymkor/verifyarc) 0.1.0 - A tool that verifies that when there is a ZIP file and a directory in which it seems to have been extracted, both match and it is safe to delete one
 * [vim-hogehoge](https://www.vim.org/download.php) 9.1.0 - download : vim online
 * [vo](https://github.com/hymkor/vo) 1.0.2 - Visual-studio client for command-line Operation
-* [xnhttpd](https://github.com/hymkor/xnhttpd) 0.8.0 - CGI Server for test uses instead of ANHTTPD
+* [xnhttpd](https://github.com/hymkor/xnhttpd) 0.9.0 - CGI Server for test uses instead of ANHTTPD
 * [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
 
 benhoyt
