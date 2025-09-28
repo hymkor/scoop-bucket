@@ -34,8 +34,8 @@ Repositories
 * [gm](https://github.com/hymkor/gm) 0.0.2 - Golang Minimal text editor (凸)/
 * [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.24 - The interpreter of ISLisp written in Go
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
-* [gqcs](https://github.com/hymkor/gqcs) 0.0.2 - A spreadsheet-like editor for your database, right in the terminal.
 * [htnblog](https://github.com/hymkor/htnblog-go) 1.2.0 - はてなブログ コマンドライン クライアント
+* [gqcs](https://github.com/hymkor/gqcs) 0.0.3 - A spreadsheet-like editor for your database, right in the terminal.
 * [lispect](https://github.com/hymkor/lispect) 0.7.0 - A text-terminal automation tool similar to expect(1) using the subset of ISLisp
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
 * [make-howto-insta11](https://github.com/hymkor/make-howto-insta11) 0.4.0 - Output how to install our application with the scoop installer for README.md like this.
