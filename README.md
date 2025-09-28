@@ -60,7 +60,7 @@ Repositories
 * [verifyarc](https://github.com/hymkor/verifyarc) 0.1.0 - A tool that verifies that when there is a ZIP file and a directory in which it seems to have been extracted, both match and it is safe to delete one
 * [vim-hogehoge](https://www.vim.org/download.php) 9.1.0 - download : vim online
 * [vo](https://github.com/hymkor/vo) 1.0.2 - Visual-studio client for command-line Operation
-* [xnhttpd](https://github.com/hymkor/xnhttpd) 0.9.0 - CGI Server for test uses instead of ANHTTPD
+* [xnhttpd](https://github.com/hymkor/xnhttpd) 0.10.0 - CGI Server for test uses instead of ANHTTPD
 * [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
 
 benhoyt
