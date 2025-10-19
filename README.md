@@ -34,7 +34,7 @@ Repositories
 * [gm](https://github.com/hymkor/gm) 0.0.2 - Golang Minimal text editor (凸)/
 * [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.24 - The interpreter of ISLisp written in Go
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
-* [gqcs](https://github.com/hymkor/gqcs) 0.0.3 - A spreadsheet-like editor for your database, right in the terminal.
+* [gqcs](https://github.com/hymkor/gqcs) 0.1.0 - A spreadsheet-like editor for your database, right in the terminal.
 * [htnblog](https://github.com/hymkor/htnblog-go) 1.3.0 - はてなブログ コマンドライン クライアント
 * [lispect](https://github.com/hymkor/lispect) 0.7.0 - A text-terminal automation tool similar to expect(1) using the subset of ISLisp
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
