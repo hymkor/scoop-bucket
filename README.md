@@ -25,7 +25,7 @@ Repositories
 * [cure](https://github.com/hymkor/cure) 0.3.1 - CURE.exe - Color-Unicoded moRE.exe
 * [enexToHtml](https://github.com/hymkor/go-enex) 0.1.1 - Convert Evernote's export file(\*.enex) into HTML and images
 * [env-rs](https://github.com/hymkor/env-rs) 0.3.0 - Env.exe for Windows
-* [example-into-readme](https://github.com/hymkor/example-into-readme) 0.7.1 - Insert example-files into `README.md` at the code block in the current directory.
+* [example-into-readme](https://github.com/hymkor/example-into-readme) 0.8.0 - Insert example-files into `README.md` at the code block in the current directory.
 * [expect-lua](https://github.com/hymkor/expect) 1.0.0 - Expect-lua for Windows
 * [fcopy](https://github.com/hymkor/fcopy) 0.2.0 - Force to copy files even if they are using by other processes and/or the destination directories are protected
 * [filelock](https://github.com/hymkor/filelock) 0.1.0 - Keep the file in use until EOF is encountered on standard input for testing file locking.
