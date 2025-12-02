@@ -30,6 +30,7 @@ Repositories
 * [fcopy](https://github.com/hymkor/fcopy) 0.2.0 - Force to copy files even if they are using by other processes and/or the destination directories are protected
 * [filelock](https://github.com/hymkor/filelock) 0.1.0 - Keep the file in use until EOF is encountered on standard input for testing file locking.
 * [findo](https://github.com/hymkor/findo) 0.3.0 - Search filename from the subdirectories of the current directory.
+* [findrun](https://github.com/hymkor/findrun) 0.1.0 - findrun is a wrapper that automatically resolves the script's full path and executes it with the specified interpreter.
 * [genestub](https://github.com/hymkor/genestub) 2.0.0.0 - Stub module to test the child-process is called as expected.
 * [gm](https://github.com/hymkor/gm) 0.0.3 - Golang Minimal text editor (凸)/
 * [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.24 - The interpreter of ISLisp written in Go
