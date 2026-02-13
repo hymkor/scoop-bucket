@@ -63,7 +63,7 @@ Repositories
 * [vim-hogehoge](https://www.vim.org/download.php) 9.1.0 - download : vim online
 * [vo](https://github.com/hymkor/vo) 1.0.2 - Visual-studio client for command-line Operation
 * [xnhttpd](https://github.com/hymkor/xnhttpd) 0.10.1 - CGI Server for test uses instead of ANHTTPD
-* [zar](https://github.com/hymkor/zar) 0.2.2 - tarlike zipclone
+* [zar](https://github.com/hymkor/zar) 0.2.3 - tarlike zipclone
 
 benhoyt
 * [goawk](https://github.com/benhoyt/goawk) 1.31.0 - A POSIX-compliant AWK interpreter written in Go, with CSV support
