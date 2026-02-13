@@ -33,7 +33,7 @@ Repositories
 * [findo](https://github.com/hymkor/findo) 0.3.0 - Search filename from the subdirectories of the current directory.
 * [findrun](https://github.com/hymkor/findrun) 0.1.0 - findrun is a wrapper that automatically resolves the script's full path and executes it with the specified interpreter.
 * [genestub](https://github.com/hymkor/genestub) 2.0.0.0 - Stub module to test the child-process is called as expected.
-* [gm](https://github.com/hymkor/gm) 0.0.3 - Golang Minimal text editor (凸)/
+* [gm](https://github.com/hymkor/gm) 0.0.4 - Golang Minimal text editor (凸)/
 * [gmnlisp](https://github.com/hymkor/gmnlisp) 0.7.24 - The interpreter of ISLisp written in Go
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
 * [gqcs](https://github.com/hymkor/gqcs) 0.1.0 - A spreadsheet-like editor for your database, right in the terminal.
