@@ -19,9 +19,9 @@ Repositories
 
 * [Download-Count.ps1](https://github.com/hymkor/Download-Count.ps1) 0.2.0 - A PowerShell script that reports how many assets on GitHub's Releases page have been downloaded.
 * [Update-Exe-All.ps1](https://github.com/hymkor/Update-Exe-All.ps1) 0.3.0 - A PowerShell script that overwrites the specified executable file to a file with the same name in the directory specified by the environment variable PATH
-* [bine](https://github.com/hymkor/bine) 0.7.1 - Bine - A terminal binary editor
-* [binview](https://github.com/hymkor/binview) 0.6.3 - Binary data view/editor on the terminal
-* [csvi](https://github.com/hymkor/csvi) 1.22.0 - Terminal CSV Editor
+* [bine](https://github.com/hymkor/bine) 0.9.0 - Bine - A terminal binary editor
+* [binview](https://github.com/hymkor/bine) 0.9.0 - Bine - A terminal binary editor
+* [csvi](https://github.com/hymkor/csvi) 1.23.1 - Terminal CSV Editor
 * [csview](https://github.com/hymkor/csview) 1.5.0 - The unbreakabe CSV editor - "CSView"
 * [cure](https://github.com/hymkor/cure) 0.3.1 - CURE.exe - Color-Unicoded moRE.exe
 * [enexToHtml](https://github.com/hymkor/go-enex) 0.1.1 - Convert Evernote's export file(\*.enex) into HTML and images
@@ -69,8 +69,8 @@ benhoyt
 * [goawk](https://github.com/benhoyt/goawk) 1.31.0 - A POSIX-compliant AWK interpreter written in Go, with CSV support
 
 mattn
-* [bsky](https://github.com/mattn/bsky) 0.0.76 - A cli application for bluesky social
-* [twty](https://github.com/mattn/twty) 0.0.13 - command-line twitter client written in golang
+* [bsky](https://github.com/mattn/bsky) 0.0.77 - A cli application for bluesky social
+* [twty](https://github.com/mattn/twty) 0.1.1 - command-line twitter client written in golang
 
 nyaosorg
 * [box](https://github.com/nyaosorg/go-box) 3.1.1 - go-box - interactive item selector for the terminal
