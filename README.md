@@ -19,9 +19,9 @@ Repositories
 
 * [Download-Count.ps1](https://github.com/hymkor/Download-Count.ps1) 0.2.0 - A PowerShell script that reports how many assets on GitHub's Releases page have been downloaded.
 * [Update-Exe-All.ps1](https://github.com/hymkor/Update-Exe-All.ps1) 0.3.0 - A PowerShell script that overwrites the specified executable file to a file with the same name in the directory specified by the environment variable PATH
-* [bine](https://github.com/hymkor/bine) 0.10.1 - Bine - A terminal binary editor
-* [binview](https://github.com/hymkor/bine) 0.10.1 - Bine - A terminal binary editor
-* [csvi](https://github.com/hymkor/csvi) 1.23.1 - Terminal CSV Editor
+* [bine](https://github.com/hymkor/bine) 0.10.2 - Bine - A terminal binary editor
+* [binview](https://github.com/hymkor/bine) 0.10.2 - Bine - A terminal binary editor
+* [csvi](https://github.com/hymkor/csvi) 1.23.2 - Terminal CSV Editor
 * [csview](https://github.com/hymkor/csview) 1.5.0 - The unbreakabe CSV editor - "CSView"
 * [cure](https://github.com/hymkor/cure) 0.3.1 - CURE.exe - Color-Unicoded moRE.exe
 * [enexToHtml](https://github.com/hymkor/go-enex) 0.1.1 - Convert Evernote's export file(\*.enex) into HTML and images
@@ -38,7 +38,7 @@ Repositories
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
 * [gqcs](https://github.com/hymkor/gqcs) 0.2.0 - A spreadsheet-like editor for your database, right in the terminal.
 * [htnblog](https://github.com/hymkor/htnblog-go) 1.3.0 - はてなブログ コマンドライン クライアント
-* [jegan](https://github.com/hymkor/jegan) 0.1.0 - A terminal JSON Editor
+* [jegan](https://github.com/hymkor/jegan) 0.5.0 - A terminal JSON Editor
 * [lispect](https://github.com/hymkor/lispect) 0.7.0 - A text-terminal automation tool similar to expect(1) using the subset of ISLisp
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
 * [make-howto-insta11](https://github.com/hymkor/make-howto-insta11) 0.4.0 - Output how to install our application with the scoop installer for README.md like this.
@@ -59,7 +59,7 @@ Repositories
 * [tweetzip2md](https://github.com/hymkor/tweetzip2md) 0.1.0 - Convert from Twitter's downloaded archive to markdown files
 * [type-rnote](https://github.com/hymkor/type-rnote) 0.4.0 - Read your releases of github repository and cat the release notes to STDOUT.
 * [uncozip](https://github.com/hymkor/uncozip) 0.7.3 - UNzip COrrupted ZIP file that does not have the central directory records.
-* [unenex](https://github.com/hymkor/go-enex) 0.5.0 - (unenex) Convert Evernote's export file(\*.enex) into HTML and images
+* [unenex](https://github.com/hymkor/go-enex) 0.5.1 - (unenex) Convert Evernote's export file(\*.enex) into HTML and images
 * [verifyarc](https://github.com/hymkor/verifyarc) 0.1.0 - A tool that verifies that when there is a ZIP file and a directory in which it seems to have been extracted, both match and it is safe to delete one
 * [vim-hogehoge](https://www.vim.org/download.php) 9.1.0 - download : vim online
 * [vo](https://github.com/hymkor/vo) 1.0.2 - Visual-studio client for command-line Operation
@@ -70,8 +70,8 @@ benhoyt
 * [goawk](https://github.com/benhoyt/goawk) 1.31.0 - A POSIX-compliant AWK interpreter written in Go, with CSV support
 
 mattn
-* [bsky](https://github.com/mattn/bsky) 0.0.78 - A cli application for bluesky social
-* [twty](https://github.com/mattn/twty) 0.1.1 - command-line twitter client written in golang
+* [bsky](https://github.com/mattn/bsky) 0.0.79 - A cli application for bluesky social
+* [twty](https://github.com/mattn/twty) 0.1.2 - command-line twitter client written in golang
 
 nyaosorg
 * [box](https://github.com/nyaosorg/go-box) 3.1.1 - go-box - interactive item selector for the terminal
