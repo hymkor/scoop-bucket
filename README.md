@@ -38,14 +38,14 @@ Repositories
 * [gosenzo](https://github.com/hymkor/gosenzo) 0.1.0 - Trace process's parents
 * [gqcs](https://github.com/hymkor/gqcs) 0.2.0 - A spreadsheet-like editor for your database, right in the terminal.
 * [htnblog](https://github.com/hymkor/htnblog-go) 1.3.0 - はてなブログ コマンドライン クライアント
-* [jegan](https://github.com/hymkor/jegan) 0.5.0 - A terminal JSON Editor
+* [jegan](https://github.com/hymkor/jegan) 0.6.0 - A terminal JSON Editor
 * [lispect](https://github.com/hymkor/lispect) 0.7.0 - A text-terminal automation tool similar to expect(1) using the subset of ISLisp
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
 * [make-howto-insta11](https://github.com/hymkor/make-howto-insta11) 0.4.0 - Output how to install our application with the scoop installer for README.md like this.
 * [make-scoop-bucket-index](https://github.com/hymkor/make-scoop-bucket-index) 0.0.4 - Make README.md of the bucket repository
 * [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest) 0.11.1 - Make the manifest file of the scoop-installer
 * [minipage](https://github.com/hymkor/minipage) 0.11.1 - Minimal Static Page Generator
-* [nemo](https://github.com/hymkor/nemo) 0.1.0 - 
+* [nemo](https://github.com/hymkor/nemo) 0.3.0 - 
 * [pipe2excel](https://github.com/hymkor/pipe2excel) 0.5.2 - Make Pipeline To Excel and send each CSV To Excel cell as a string
 * [rmdirsonly](https://github.com/hymkor/rmdirsonly) 0.0.1 - Similar with `rmdir /s`, but it does not remove files. It removes EMPTY DIRECTORIES only
 * [script](https://github.com/hymkor/script) 0.1.0 - script.exe - make typescript of terminal session like that of Linux for Windows10 or later
