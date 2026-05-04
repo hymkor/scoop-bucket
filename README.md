@@ -39,6 +39,7 @@ Repositories
 * [gqcs](https://github.com/hymkor/gqcs) 0.2.0 - A spreadsheet-like editor for your database, right in the terminal.
 * [htnblog](https://github.com/hymkor/htnblog-go) 1.3.0 - はてなブログ コマンドライン クライアント
 * [jegan](https://github.com/hymkor/jegan) 0.6.1 - A terminal JSON Editor
+* [jrep](https://github.com/hymkor/jrep) 0.1.0 - JREP - Format-Preserving JSON Extractor (JSON生テキスト抽出ツール)
 * [lispect](https://github.com/hymkor/lispect) 0.7.0 - A text-terminal automation tool similar to expect(1) using the subset of ISLisp
 * [log2web](https://github.com/hymkor/log2web) 0.1.0 - Showing the last 1024 bytes of the logfile to web via http
 * [make-howto-insta11](https://github.com/hymkor/make-howto-insta11) 0.4.0 - Output how to install our application with the scoop installer for README.md like this.
