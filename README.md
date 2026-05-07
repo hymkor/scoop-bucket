@@ -24,6 +24,7 @@ Repositories
 * [csvi](https://github.com/hymkor/csvi) 1.23.2 - Terminal CSV Editor
 * [csview](https://github.com/hymkor/csview) 1.5.0 - The unbreakabe CSV editor - "CSView"
 * [cure](https://github.com/hymkor/cure) 0.3.1 - CURE.exe - Color-Unicoded moRE.exe
+* [downpour](https://github.com/hymkor/downpour) 0.2.0 - Makes cloud files offline-ready by opening them before app access
 * [enexToHtml](https://github.com/hymkor/go-enex) 0.1.1 - Convert Evernote's export file(\*.enex) into HTML and images
 * [env-rs](https://github.com/hymkor/env-rs) 0.3.0 - Env.exe for Windows
 * [example-into-readme](https://github.com/hymkor/example-into-readme) 0.9.0 - Insert example-files into `README.md` at the code block in the current directory.
