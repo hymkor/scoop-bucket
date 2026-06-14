@@ -47,7 +47,7 @@ Repositories
 * [make-scoop-bucket-index](https://github.com/hymkor/make-scoop-bucket-index) 0.0.4 - Make README.md of the bucket repository
 * [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest) 0.11.1 - Make the manifest file of the scoop-installer
 * [minipage](https://github.com/hymkor/minipage) 0.11.1 - Minimal Static Page Generator
-* [nemo](https://github.com/hymkor/nemo) 0.3.2 - 
+* [nemo](https://github.com/hymkor/nemo) 0.4.0 - A terminal pager for Go, usable both as a CLI and as a library
 * [pipe2excel](https://github.com/hymkor/pipe2excel) 0.5.2 - Make Pipeline To Excel and send each CSV To Excel cell as a string
 * [rmdirsonly](https://github.com/hymkor/rmdirsonly) 0.2.0 - Similar with `rmdir /s`, but it does not remove files. It removes EMPTY DIRECTORIES only
 * [script](https://github.com/hymkor/script) 0.1.0 - script.exe - make typescript of terminal session like that of Linux for Windows10 or later
