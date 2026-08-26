@@ -21,7 +21,7 @@ Repositories
 * [Update-Exe-All.ps1](https://github.com/hymkor/Update-Exe-All.ps1) 0.3.0 - A PowerShell script that overwrites the specified executable file to a file with the same name in the directory specified by the environment variable PATH
 * [bine](https://github.com/hymkor/bine) 0.10.2 - Bine - A terminal binary editor
 * [binview](https://github.com/hymkor/bine) 0.10.2 - Bine - A terminal binary editor
-* [csvi](https://github.com/hymkor/csvi) 1.23.2 - Terminal CSV Editor
+* [csvi](https://github.com/hymkor/csvi) 1.23.3 - Terminal CSV Editor
 * [csview](https://github.com/hymkor/csview) 1.5.0 - The unbreakabe CSV editor - "CSView"
 * [cure](https://github.com/hymkor/cure) 0.3.1 - CURE.exe - Color-Unicoded moRE.exe
 * [downpour](https://github.com/hymkor/downpour) 0.2.0 - Makes cloud files offline-ready by opening them before app access
