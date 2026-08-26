@@ -74,7 +74,7 @@ benhoyt
 
 mattn
 * [bsky](https://github.com/mattn/bsky) 0.0.81 - A cli application for bluesky social
-* [twty](https://github.com/mattn/twty) 0.1.4 - command-line twitter client written in golang
+* [twty](https://github.com/mattn/twty) 0.1.7 - command-line twitter client written in golang
 
 nyaosorg
 * [box](https://github.com/nyaosorg/go-box) 3.1.1 - go-box - interactive item selector for the terminal
