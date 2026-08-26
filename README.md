@@ -73,7 +73,7 @@ benhoyt
 * [goawk](https://github.com/benhoyt/goawk) 1.31.0 - A POSIX-compliant AWK interpreter written in Go, with CSV support
 
 mattn
-* [bsky](https://github.com/mattn/bsky) 0.0.81 - A cli application for bluesky social
+* [bsky](https://github.com/mattn/bsky) 0.0.82 - A cli application for bluesky social
 * [twty](https://github.com/mattn/twty) 0.1.7 - command-line twitter client written in golang
 
 nyaosorg
