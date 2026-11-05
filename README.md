@@ -72,7 +72,7 @@ Repositories
 * [zar](https://github.com/hymkor/zar) 0.2.3 - tarlike zipclone
 
 benhoyt
-* [goawk](https://github.com/benhoyt/goawk) 1.31.0 - A POSIX-compliant AWK interpreter written in Go, with CSV support
+* [goawk](https://github.com/benhoyt/goawk) 1.32.0 - A POSIX-compliant AWK interpreter written in Go, with CSV support
 
 mattn
 * [bsky](https://github.com/mattn/bsky) 0.0.82 - A cli application for bluesky social
