@@ -62,6 +62,7 @@ Repositories
 * [sugui](https://github.com/hymkor/sugui-rs) 0.1.1 - Start program as Administrator on Windows with no consoles
 * [trash](https://github.com/hymkor/trash-rs) 0.2.0 - Move file(s) to trash-box of Microsoft Windows
 * [tweetzip2md](https://github.com/hymkor/tweetzip2md) 0.1.0 - Convert from Twitter's downloaded archive to markdown files
+* [type-qr](https://github.com/hymkor/type-qr) 0.1.0 - Displays a QR code of the given text in the terminal.
 * [type-rnote](https://github.com/hymkor/type-rnote) 0.4.0 - Read your releases of github repository and cat the release notes to STDOUT.
 * [uncozip](https://github.com/hymkor/uncozip) 0.7.3 - UNzip COrrupted ZIP file that does not have the central directory records.
 * [unenex](https://github.com/hymkor/go-enex) 0.5.1 - (unenex) Convert Evernote's export file(\*.enex) into HTML and images
